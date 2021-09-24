@@ -41,6 +41,7 @@ TCP 통신을 이용하여 2명의 유저가 실시간으로 게임을 진행합
  <br/>
  
 ## Milestone## Milestone
+
 ```mermaid
 graph LR
 A[학습] --> B[기능, 화면 및 아키텍처 설계]
