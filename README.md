@@ -15,3 +15,10 @@ TCP 통신을 이용하여 2명의 유저가 실시간으로 게임을 진행합
  - **Framework** : Node.js
  - **Used library** : 
  - 추가해나갈 예정
+
+ <br/>
+ 
+# Requirements Specification
+
+## Index Page
+ㄹㄷㄹㄷ
