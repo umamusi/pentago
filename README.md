@@ -9,7 +9,7 @@ TCP 통신을 이용하여 2명의 유저가 실시간으로 게임을 진행합
 
 <br/>   
 
-# Tech Stack
+## Tech Stack
 
  - **Language** : JavaScript
  - **Framework** : Node.js
