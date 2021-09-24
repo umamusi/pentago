@@ -45,6 +45,7 @@ TCP 통신을 이용하여 2명의 유저가 실시간으로 게임을 진행합
 ## Milestone
 
 ![공정표](./img/milestone.png)
+![milestone](https://user-images.githubusercontent.com/54471641/134721807-820fcb28-cb97-4081-86d9-f8aa9f874e5c.png)
 
 
 
