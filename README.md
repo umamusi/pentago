@@ -48,3 +48,11 @@ graph LR
 A[학습] --> B[기능, 화면 및 아키텍처 설계]
 
 ```
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
