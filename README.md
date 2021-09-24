@@ -45,9 +45,9 @@ TCP 통신을 이용하여 2명의 유저가 실시간으로 게임을 진행합
 ![공정표](./img/milestone.png)
 
 
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|ASCII                          |HTML                         |
+|-------------------------------|-----------------------------|
+|`'Isn't this fun?'`            |'Isn't this fun?'            |
+|`"Isn't this fun?"`            |"Isn't this fun?"            |
+|`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
