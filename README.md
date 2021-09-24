@@ -11,10 +11,12 @@ TCP 통신을 이용하여 2명의 유저가 실시간으로 게임을 진행합
 
 ## Tech Stack
 
- - **Language** : JavaScript
- - **Framework** : Node.js
- - **Used library** : 
- - 추가해나갈 예정
+ |Kinds          |Using           |
+|----------------|----------------|
+|`Langugage`     |JavaScript      |
+|`Framework`     |Node.Js         |
+|`Used Library`  | ...            |
+|`추가할 예정`    | ...            |
 
  <br/>
  
