@@ -57,4 +57,4 @@ B --> D{Rhombus}
 C --> D
 ```
 
-!(./img/milestone.png)
+![./img/milestone.png]
