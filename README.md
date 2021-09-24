@@ -7,7 +7,7 @@
 TCP 통신을 이용하여 2명의 유저가 실시간으로 게임을 진행합니다.
 게임화면에서는 **실시간 게임판**, **채팅** 등이 있습니다.
 <br/>    
-
+<br/><br/>
 > USW Computer Science : [**HumanHyeon**](https://github.com/HumanHyeon),  [**y00913**](https://github.com/y00913),  [**7IEH**](https://github.com/7IEH)
 
 
