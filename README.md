@@ -13,7 +13,7 @@ TCP 통신을 이용하여 2명의 유저가 실시간으로 게임을 진행합
 
  |Kinds          |Using           |
 |----------------|----------------|
-|`**Langugage**`     |JavaScript      |
+|**`Langugage`**     |JavaScript      |
 |`Framework`     |Node.Js         |
 |`Used Library`  | ...            |
 |`추가할 예정`    | ...            |
