@@ -46,6 +46,7 @@ TCP 통신을 이용하여 2명의 유저가 실시간으로 게임을 진행합
 <br/>
 
 ![공정표](./img/milestone.png)
+<br/>
 
 ### 4 month project (18 weeks)
 | 일정 | 날짜 |
