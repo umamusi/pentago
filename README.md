@@ -18,7 +18,7 @@ TCP 통신을 이용하여 2명의 유저가 실시간으로 게임을 진행합
 
  <br/>
  
-# Requirements Specification
+## Requirements Specification
 
 ### [ Index Page ]
  *  로그인
